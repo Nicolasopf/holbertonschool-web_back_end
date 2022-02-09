@@ -1,0 +1,1 @@
+# Python strong syntax
